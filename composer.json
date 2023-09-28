@@ -1,0 +1,7 @@
+{
+  "name": "blackaay/php-sugars",
+  "description": "php-sugars",
+  "require": {
+    "php": ">=7.0"
+  }
+}
